@@ -17,3 +17,8 @@ A `./dist` folder should be created, containing the following folder/files:
 - index.js
 - package.json
 - package-lock.json
+
+
+##### References:
+###### https://stackoverflow.com/questions/41109461/how-include-node-modules-in-output-directory-with-typescript/42162316#42162316
+###### https://www.youtube.com/watch?v=mxiRCcnsKDw
